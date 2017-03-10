@@ -170,13 +170,23 @@ img2 {
       width: 78%;
 }
 
+.info{
+  text-align: center;
+}
+.info2{
+  text-align: center;
+}
+.info3{
+  text-align: center;s
+}
 /*ARMORY (below) ****************************************************
 **************************************************************************** */
-.text1E, h3{
+.text1E, h5{
       background-color: white;
-      color: white;
+      color: black;
       padding: 50px 0px;
-      font-family: 'Tillana', cursive;
+      font-family: 'Homemade Apple', cursive;
+      letter-spacing: 3px;
 }
 .sidebar3,h4 {
           float: right;
